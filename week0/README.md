@@ -48,4 +48,9 @@ Then do a deep dive:
     - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_3_see_homework_sol.md)
     - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_4_quiz.md) 
 
+Reviese few interview questions:
+- [Easy Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_1_easy.md) content. 
+- [Little hard Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_2_medium.md).
+- [Hard Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_3_hard.md)
+- [Harder Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_4_very_hard.md)
 

@@ -49,7 +49,7 @@ Then do a deep dive:
     - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_4_quiz.md) 
 
 Reviese few interview questions:
-- [Easy Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_1_easy.md) content. 
+- [Easy Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_1_easy.md). 
 - [Little hard Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_2_medium.md).
 - [Hard Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_3_hard.md)
 - [Harder Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_4_very_hard.md)

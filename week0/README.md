@@ -1,4 +1,4 @@
-You will be referring week0 folder for this week.
+### Week 0: Theme - [Revising C++ Fundamentals]
 
 Start with [Cpp Refresher](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_cpp_refresher.md)
 

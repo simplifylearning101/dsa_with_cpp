@@ -43,5 +43,9 @@ Then do a deep dive:
     - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_3_see_homework_sol.md)
     - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_4_quiz.md) 
 
+- Inheritance, Polymorphism, Function Overloading, and Operator Overloading
+    - Read [Eight hour](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_1_read_cpp_refresher.md) content. 
+    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_3_see_homework_sol.md)
+    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_4_quiz.md) 
 
 

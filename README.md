@@ -15,11 +15,14 @@ Students are then expected to practice 10-15 homework programs of increasing dif
 
 Weekly fun project: A mini-project to apply what you've learned, showcasing your understanding (e.g., via GitHub submission). You will form a group, work on project and present it to rest of the cohort members.
 
-## Prerequisite
-1. You need to have a local environement setup to run Cpp programs.  
-2. You should have familarity with git and have a repo in github.
+## Before we start
+1. Do you have a local environement run Cpp programs? If not, reachout to tech coodinator for help (details below)  
+2. Are you familiar with git and github? If not, reachout to tech coodinator for help.
+3. Create a github repo so that you can showcase your work, dedication and commitment. 
 
-
+## Coordinators
+- Tech: Adit Kadagadakai
+- Logistics: Ashwini
 
 ## Roadmap
 ### Week 0: Theme - [Revising C++ Fundamentals](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) 

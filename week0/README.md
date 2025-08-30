@@ -57,3 +57,5 @@ Reviese few interview questions:
 
 ### Project Time
 Form a group of 3-4 people. Choose one [project from the list](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/projects/README.md) and implement it. You should be able to walk thru the code. 
+
+You will find the solution in the solutions folder inside. DO NOT use it. Refer it only if you are stuck. 

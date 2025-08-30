@@ -12,6 +12,9 @@ For convinience, we have split this into 5 parts - each expected to take an hour
     - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_4_quiz.md) 
 
 - Second hour
+    - Read [Second hour](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/2_1_read_cpp_refresher.md) content. 
+    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/2_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/2_3_see_homework_sol.md)
+    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/2_4_quiz.md) 
 
 - Third hour
 

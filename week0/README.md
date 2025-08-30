@@ -56,4 +56,4 @@ Reviese few interview questions:
 - [Harder Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_4_very_hard.md).
 
 ### Project Time
-Form a group of 3-4 people. Choose one [project from the list]() and implement it. You should be able to walk thru the code. 
+Form a group of 3-4 people. Choose one [project from the list](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/projects/README.md) and implement it. You should be able to walk thru the code. 

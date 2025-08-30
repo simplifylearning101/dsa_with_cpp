@@ -1,7 +1,7 @@
 
 # 10-Week DSA Cohort Roadmap in C++
 
-Welcome to the 10-Week DSA Mastery Cohort! We'll focus on building a strong foundation in Data Structures and Algorithms (DSA) using C++, tailored for coding interviews. 
+Welcome to the 10-Week DSA Mastery Cohort! We'll focus on building a strong foundation in Data Structures and Algorithms (DSA) using C++, tailored for your first step in coding interviews. 
 
 ### Overview of this program:
 
@@ -22,23 +22,4 @@ Weekly fun project: A mini-project to apply what you've learned, showcasing your
 
 
 ## Roadmap
-### Week 0: Theme - Revising C++ Fundamentals 
-
-You will be referring week0 folder for this week.
-
-Start with [Cpp Refresher](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_cpp_refresher.md)
-
-Then do a deep dive:
-1. pointers
-2. classes and objects
-
-Complete the homework - refer the homework file.
-
-Try simple leetcode problems - refer leetcode file. 
-
-Work on a project. See project ideas.
-
-Outcome Expected: Students refresh core C++ concepts from college, writing basic programs confidently, understanding pointers, references, and basic OOP principles, preparing for STL and DSA. 
-
-By the end of the week, you will be comfortable writing some advanced C++ programs, manipulating arrays, woking with pointers, using classes and objects. You'll start thinking about time/space complexity basics and introduced to Big-O operations confidently.
-
+### Week 0: Theme - [Revising C++ Fundamentals]((https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/)) 

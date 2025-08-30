@@ -33,12 +33,15 @@ For convinience, we have split this into 5 parts - each expected to take an hour
 
 Then do a deep dive:
 
-- Six hour
+- Pointers
     - Read [Sixth hour](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/6_1_read_cpp_refresher.md) content. 
     - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/6_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/6_3_see_homework_sol.md)
     - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/6_4_quiz.md) 
-1. pointers
-2. classes and objects
+
+- Classes, Objects, Contructor, destructor and access mechanism
+    - Read [Seventh hour](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_1_read_cpp_refresher.md) content. 
+    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_3_see_homework_sol.md)
+    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_4_quiz.md) 
 
 
 

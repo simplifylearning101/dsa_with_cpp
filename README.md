@@ -22,7 +22,7 @@ Weekly fun project: A mini-project to apply what you've learned, showcasing your
 
 
 ## Roadmap
-### Week 0: Theme - Revising C++ Fundamentals via our [Cpp Refresher](https://github.com/simplifylearning101/cpp_refresher/blob/main/materials/1_cpp_refresher.md)
+### Week 0: Theme - Revising C++ Fundamentals via our [Cpp Refresher](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_cpp_refresher.md)
 
 
 Outcome Expected: Students refresh core C++ concepts from college, writing basic programs confidently, understanding pointers, references, and basic OOP principles, preparing for STL and DSA.

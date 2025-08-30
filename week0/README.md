@@ -48,9 +48,12 @@ Then do a deep dive:
     - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_3_see_homework_sol.md)
     - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_4_quiz.md) 
 
+### Interview Prep time
 Reviese few interview questions:
 - [Easy Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_1_easy.md). 
 - [Little hard Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_2_medium.md).
-- [Hard Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_3_hard.md)
-- [Harder Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_4_very_hard.md)
+- [Hard Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_3_hard.md).
+- [Harder Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_4_very_hard.md).
 
+### Project Time
+Form a group of 3-4 people. Choose one [project from the list]() and implement it. You should be able to walk thru the code. 

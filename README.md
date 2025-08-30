@@ -22,20 +22,23 @@ Weekly fun project: A mini-project to apply what you've learned, showcasing your
 
 
 ## Roadmap
-### Week 0: Theme - Revising C++ Fundamentals via our [Cpp Refresher](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_cpp_refresher.md)
+### Week 0: Theme - Revising C++ Fundamentals 
 
+You will be referring week0 folder for this week.
 
-Outcome Expected: Students refresh core C++ concepts from college, writing basic programs confidently, understanding pointers, references, and basic OOP principles, preparing for STL and DSA.
+Start with [Cpp Refresher](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_cpp_refresher.md)
 
-Topics Covered:
-1. Basics: Variables, data types, loops, conditionals, functions.
-2. Pointers and References: Memory addresses, dereferencing.
-3. OOP Basics: Classes, objects, inheritance, polymorphism.
+Then do a deep dive:
+1. pointers
+2. classes and objects
 
+Complete the homework - refer the homework file.
 
-Outcome Expected: By the end of the week, you will be comfortable writing some advanced C++ programs, manipulating arrays, woking with pointers, using classes and objects. You'll start thinking about time/space complexity basics and introduced to Big-O operations confidently.
+Try simple leetcode problems - refer leetcode file. 
 
-Homework: 10-12 programs (e.g., reverse array, find max/min, rotate array). Also aim to solve 20 LeetCode easy array problems (e.g., #1 Two Sum, #26 Remove Duplicates).
+Work on a project. See project ideas.
 
-Project: Build a simple console app e.g. "Inventory Manager" – Use vectors to store items (name, quantity); implement add/remove/search functions. Showcase your achievement.
+Outcome Expected: Students refresh core C++ concepts from college, writing basic programs confidently, understanding pointers, references, and basic OOP principles, preparing for STL and DSA. 
+
+By the end of the week, you will be comfortable writing some advanced C++ programs, manipulating arrays, woking with pointers, using classes and objects. You'll start thinking about time/space complexity basics and introduced to Big-O operations confidently.
 

@@ -7,8 +7,8 @@ By the end of the week, you will be comfortable writing some advanced C++ progra
 For convinience, we have split this into 5 parts - each expected to take an hour approx.
 
 - First hour
--- Read [First hour](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_1_read_cpp_refresher.md) content. 
-- - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_3_see_homework_sol.md)
+    - Read [First hour](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_1_read_cpp_refresher.md) content. 
+    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_3_see_homework_sol.md)
 - - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_4_quiz.md) 
 
 Then do a deep dive:

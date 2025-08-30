@@ -21,8 +21,9 @@ Weekly fun project: A mini-project to apply what you've learned, showcasing your
 3. Create a github repo so that you can showcase your work, dedication and commitment. 
 
 ## Coordinators
-- Tech: Adit Kadagadakai
-- Logistics: Ashwini
+Once you join the cohort, you will be invited to cohort WhatsApp group where you can seek help from our coordinators 
+- Technology related : Adit Kadagadakai
+- Logistics related : Ashwini
 
 ## Roadmap
 ### Week 0: Theme - [Revising C++ Fundamentals](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) 

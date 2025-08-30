@@ -1,6 +1,4 @@
-#
-
- C++ Refresher for DSA Cohort: Hour 5 - Homework
+# C++ Refresher for DSA Cohort: Hour 5 - Homework
 
 Practice these 15 problems to reinforce dynamic memory allocation, structures, and recursion. They increase in complexity to build skills for coding interviews.
 

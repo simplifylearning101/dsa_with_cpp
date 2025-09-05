@@ -39,5 +39,5 @@ Once you join the cohort, you will be invited to cohort WhatsApp group where you
 ## Roadmap
 | Week | Coverage | Link |
 |---|---|---|
-| Week 0 | Refresh your C++ knowledge | (https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) |
+| Week 0 | Refresh your C++ knowledge | [Link](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) |
  

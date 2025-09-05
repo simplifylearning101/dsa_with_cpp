@@ -6,10 +6,10 @@ Welcome to the 10-Week DSA Mastery Cohort! This will build a strong foundation i
 This course is offered in two modes
 
 
-|   | Cohort Mode  | Classroom Mode  |   |   |
-|---|---|---|---|---|
-| Course Content | FREE  |  FREE |   |   |
-|   |   |   |   |   |
+|   | Cohort Mode (FREE)  | Classroom Mode (Fee based)  |
+|---|---|---|
+| Course Content | Same | Same |
+| Course Delivery | Thru github  | Online Classes  |
 |   |   |   |   |   |
 
 ### Overview of this program:

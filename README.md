@@ -44,9 +44,9 @@ Once you join the cohort, you will be invited to cohort WhatsApp group where you
 | Week 2 | Arrays and Two-Pointer Techniques | Inventory System | | 
 | Week 3 | Linked Lists | Playlist Manager | | 
 | Week 4 | Stacks and Queues | Browser Navigation | | 
-| Week 5 | Trees and Binary Trees | Directory Explorer | 
-| Week 6 | Binary Search Trees and Heaps | Task Prioritizer | 
-| Week 7 | Graphs | Network Analyzer | 
-| Week 8 | Sorting and Searching | Search Engine | 
-| Week 9 | Dynamic Programming | Game Score Maximizer |
-| Week 10 | Synthesis and Mock Interviews (For paid members) | Route Planner |
+| Week 5 | Trees and Binary Trees | Directory Explorer | |
+| Week 6 | Binary Search Trees and Heaps | Task Prioritizer | | 
+| Week 7 | Graphs | Network Analyzer | |
+| Week 8 | Sorting and Searching | Search Engine | | 
+| Week 9 | Dynamic Programming | Game Score Maximizer | |
+| Week 10 | Synthesis and Mock Interviews (For paid members) | Route Planner | |

@@ -9,8 +9,10 @@ This course is offered in two modes
 |   | Cohort Mode (FREE)  | Classroom Mode (Fee based)  |
 |---|---|---|
 | Course Content | Same | Same |
-| Course Delivery | You follow the course here | Addiitonal Online Classes to explain everything  |
-|   |   |   |   |   |
+| Course Delivery | You follow the course here on your own | You attend Online Classes accelerate your learning  |
+| Effectiveness  | Depends on your seriousness | Acitve followup from mentor |
+| Support & Mentoring  | Basic support | Priority support |
+| Payment | 0 | Minimal, please check with course coodinator |
 
 ### Overview of this program:
 

@@ -39,5 +39,14 @@ Once you join the cohort, you will be invited to cohort WhatsApp group where you
 ## Roadmap
 | Week | Coverage | Link |
 |---|---|---|
-| Week 0 | Refresh your C++ knowledge | [Link](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) |
- 
+| Week 0 | Revising C++ Fundamentals | [Link](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) |
+| Week 1 | Mastering C++ STL | |
+| Week 2 | Arrays and Two-Pointer Techniques | | 
+| Week 3 | Linked Lists | | 
+| Week 4 | Stacks and Queues | | 
+| Week 5 | Trees and Binary Trees | | 
+| Week 6 | Binary Search Trees and Heaps | | 
+| Week 7 | Graphs | | 
+| Week 8 | Sorting and Searching | | 
+| Week 9 | Dynamic Programming | |
+| Week 10 | Synthesis and Mock Interviews (For paid members) | |

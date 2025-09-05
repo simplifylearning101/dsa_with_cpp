@@ -38,7 +38,7 @@ Once you join the cohort, you will be invited to cohort WhatsApp group where you
 
 ## Roadmap
 | Week | Coverage | Project | Link |
-|---|---|---|
+|---|---|---|---|
 | Week 0 | Revising C++ Fundamentals | A Student Database | [Link](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) |
 | Week 1 | Mastering C++ STL | Phonebook Manager | |
 | Week 2 | Arrays and Two-Pointer Techniques | Inventory System | | 

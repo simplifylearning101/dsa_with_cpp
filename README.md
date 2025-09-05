@@ -9,7 +9,7 @@ This course is offered in two modes
 |   | Cohort Mode (FREE)  | Classroom Mode (Fee based)  |
 |---|---|---|
 | Course Content | Same | Same |
-| Course Delivery | Thru github  | Online Classes  |
+| Course Delivery | You follow the course here | Addiitonal Online Classes to explain everything  |
 |   |   |   |   |   |
 
 ### Overview of this program:

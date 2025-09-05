@@ -37,16 +37,16 @@ Once you join the cohort, you will be invited to cohort WhatsApp group where you
 - Logistics related : Ashwini
 
 ## Roadmap
-| Week | Coverage | Link |
+| Week | Coverage | Project | Link |
 |---|---|---|
-| Week 0 | Revising C++ Fundamentals | [Link](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) |
-| Week 1 | Mastering C++ STL | |
-| Week 2 | Arrays and Two-Pointer Techniques | | 
-| Week 3 | Linked Lists | | 
-| Week 4 | Stacks and Queues | | 
-| Week 5 | Trees and Binary Trees | | 
-| Week 6 | Binary Search Trees and Heaps | | 
-| Week 7 | Graphs | | 
-| Week 8 | Sorting and Searching | | 
-| Week 9 | Dynamic Programming | |
-| Week 10 | Synthesis and Mock Interviews (For paid members) | |
+| Week 0 | Revising C++ Fundamentals | A Student Database | [Link](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) |
+| Week 1 | Mastering C++ STL | Phonebook Manager | |
+| Week 2 | Arrays and Two-Pointer Techniques | Inventory System | | 
+| Week 3 | Linked Lists | Playlist Manager | | 
+| Week 4 | Stacks and Queues | Browser Navigation | | 
+| Week 5 | Trees and Binary Trees | Directory Explorer | 
+| Week 6 | Binary Search Trees and Heaps | Task Prioritizer | 
+| Week 7 | Graphs | Network Analyzer | 
+| Week 8 | Sorting and Searching | Search Engine | 
+| Week 9 | Dynamic Programming | Game Score Maximizer |
+| Week 10 | Synthesis and Mock Interviews (For paid members) | Route Planner |

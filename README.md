@@ -11,12 +11,12 @@ Welcome to the 10-Week DSA Mastery Cohort! We'll focus on building a strong foun
 - Tools: C++11/14, LeetCode (tag by topic), NeetCode (curated roadmaps). Track progress in a problem-solving journal.
 
 ### Approach
-- This is a cohort based model of learning. Students will join the cohort and learn together. 
-- There would be lectures 2-3 hours per week covering conceptual explanations with real-world examples and C++ programs.
-- Students are then expected to practice 10-15 homework programs of increasing difficulty on the topics discussed. 
-- We will slowly start introducing LeetCode/NeetCode problems every week, focusing on easy-to-medium difficulty initially.
-
-Weekly fun project: A mini-project to apply what you've learned, showcasing your understanding (e.g., via GitHub submission). You will form a group, work on project and present it to rest of the cohort members.
+- This is a cohort based model of learning. You will join the cohort and learn with others. 
+- There would be online sessions 2-3 times (of 1-1.5 hrs) per week discussing conceptual explanations with real-world examples and C++ programs.
+- You will then practice 10-15 homework programs of increasing difficulty on the topics discussed on daily basis. 
+- You will slowly start practicing LeetCode/NeetCode problems every week, focusing on easy-to-medium difficulty initially.
+- Weekly fun project: At the end of the week, you will develop a mini-project to apply what you've learned, showcasing your understanding (e.g., via GitHub submission). 
+- You will form a group, work on project and present it to rest of the cohort members.
 
 ## Before we start
 1. Do you have a local environement run Cpp programs? If not, reachout to tech coodinator for help (details below)  

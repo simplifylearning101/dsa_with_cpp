@@ -28,8 +28,8 @@ This course is offered in two modes
 - You will form a group, work on project and present it to rest of the cohort members.
 
 ## Before we start
-- have a local environement run Cpp programs. Reachout to tech coodinator for help (details below) if you need help.  
-- setup your github account? Again, reachout to tech coodinator for help.
+- You should have a local environement run Cpp programs. If not, reachout to tech coodinator for help (details below) if you need help.  
+- You have a github account to showcase your progress. If not, reachout to tech coodinator for help.
 
 ## Coordinators
 Once you join the cohort, you will be invited to cohort WhatsApp group where you can seek help from our coordinators 
@@ -37,4 +37,7 @@ Once you join the cohort, you will be invited to cohort WhatsApp group where you
 - Logistics related : Ashwini
 
 ## Roadmap
-### Week 0: Theme - [Revising C++ Fundamentals](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) 
+| Week | Coverage | Link |
+|---|---|---|
+| Week 0 | Refresh your C++ knowledge | (https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/) |
+ 

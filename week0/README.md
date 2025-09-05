@@ -10,7 +10,7 @@ After all parts are over, attempt the interview questions.
 
 | | Read | Links | Quiz |
 |---|---|---|---|
-| 1 |[Material](materials/1_1.md)|[home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_2.md) -> [solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_3.md)|[quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_4.md)|
+| 1 |[Material](materials/1_1.md)|[home work](materials/1_2.md) -> [solutions](materials/1_3.md)|[quiz](materials/1_4.md)|
 | 2 |[Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_1_read_cpp_refresher.md)|[home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_2_do_homework.md) -> [solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_3_see_homework_sol.md)|[quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_4_quiz.md)|
 
 - Second hour

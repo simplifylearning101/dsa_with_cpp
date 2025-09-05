@@ -1,7 +1,7 @@
 
 # 10-Week DSA Cohort Roadmap in C++
 
-Welcome to the 10-Week DSA Mastery Cohort! We'll focus on building a strong foundation in Data Structures and Algorithms (DSA) using C++, tailored for your first step in coding interviews. 
+Welcome to the 10-Week DSA Mastery Cohort! This will build a strong foundation in Data Structures and Algorithms (DSA) using C++. At the end of the course, you should be 10x confident on your skills for coding interviews. 
 
 ### Overview of this program:
 

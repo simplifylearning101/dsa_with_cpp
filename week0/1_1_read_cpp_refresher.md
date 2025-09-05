@@ -1,4 +1,4 @@
-# C++ Refresher for DSA Cohort: Hour 1
+# C++ Refresher for DSA Cohort: First hour
 
 This is a 1-hour refresher session designed to revise your foundational C++ concepts so you are ready for this 10-week Data Structures and Algorithms (DSA) cohort. 
 

@@ -4,14 +4,14 @@ You will quickly refresh your core C++ concepts, write some basic programs confi
 
 By the end of the week, you will be comfortable writing some advanced C++ programs, manipulating arrays, woking with pointers, using classes and objects. You'll start thinking about time / space complexity.
 
-For convinience, we have split this week into multiple parts - each part is expected to take an hour approx.
+For convinience, we have split this week into multiple parts - each part is expected to take an hour approx. For each part, you will read the course material provided here, attempt few programs on the go. Complete the homework and then attempt the quiz. 
 
-For each part, you will read the course material provided here, attempt few programs on the go. Complete the homework and then attempt the quiz. 
+After all parts are over, attempt the interview questions. 
 
-- First hour
-    - Read [Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_1_read_cpp_refresher.md). 
-    - Then do [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_3_see_homework_sol.md)
-    - Then attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_4_quiz.md)
+| | Read | Links | Quiz |
+|---|---|---|---|
+| 1 |[Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_1_read_cpp_refresher.md)|[home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_2_do_homework.md). [solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_3_see_homework_sol.md)|[quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_4_quiz.md)|
+
 
 - Second hour
     - Read [Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/2_1_read_cpp_refresher.md) content. 

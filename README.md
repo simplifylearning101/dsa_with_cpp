@@ -54,3 +54,7 @@ Once you join the cohort, you will be invited to cohort WhatsApp group where you
 | Week 8 | Sorting and Searching | Search Engine | | 
 | Week 9 | Dynamic Programming | Game Score Maximizer | |
 | Week 10 | Synthesis and Mock Interviews (For paid members) | Route Planner | |
+
+<div align="center">
+  <img src="static/banner.png" alt="Banner Image">
+</div>

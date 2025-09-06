@@ -1,4 +1,6 @@
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=simplifylearning101.dsa_with_cpp)
+
 <div align="center">
   <img src="static/market.png" alt="Market Image" width="50%">
 </div>

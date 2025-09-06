@@ -8,6 +8,8 @@ For convinience, we have split this week into multiple parts - each part is expe
 
 After all parts are over, attempt the interview questions. 
 
+All programs are discussed in detail in the classroom training.
+
 | Part | Read | Practice | Attempt |
 |---|---|---|---|
 | 1 |[Variables / Data types / Operators](materials/1_1.md)|[home work](materials/1_2.md) -> [solutions](materials/1_3.md)|[quiz](materials/1_4.md)|

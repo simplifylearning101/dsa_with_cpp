@@ -30,7 +30,7 @@ This roadmap outlines a 10-hour plan for Week 1, designed to help students maste
 |---|---|---|---|
 
 ### Project - Phonebook management
-| [Project Requirements](materials/r.md) | [Solution](materials/s.md) | Homework(materials/homework.md)
+| [Project Requirements](materials/r.md) | [Solution](materials/s.md) | [Homework](materials/homework.md)
 |---|---|---|
 
 

@@ -36,7 +36,7 @@ This course is offered in two modes
 ## Coordinators
 Once you join the cohort, you will be invited to cohort WhatsApp group where you can seek help from our coordinators 
 <div align="center">
-  <img src="static/support.png" alt="Support Image">
+  <img src="static/support1.png" alt="Support Image">
 </div>
 
 ## Roadmap

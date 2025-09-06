@@ -5,7 +5,7 @@ This roadmap outlines a 10-hour plan for Week 1, designed to help students maste
 | Part | Read | Practice | Attempt | Master the topic | Example |
 |---|---|---|---|---|---|
 | 1 | [Introduction to C++ STL and Vectors](materials/1_1.md) | [home work](materials/1_2.md) -> [solutions](materials/1_3.md)|[quiz](materials/1_4.md)|[Deepdive](materials/1_5.md)| [Example](materials/1_6.md), [Additional](materials/1_7.md) |
-| 2 | Arrays and Deques in STL | |
+| 2 | Arrays and Deques in STL(materials/2_1.md) | [home work](materials/2_2.md) -> [solutions](materials/2_3.md)|[quiz](materials/2_4.md)|[Deepdive](materials/2_5.md)| [Example](materials/2_6.md), [Additional](materials/2_7.md) |
 | 3 | Lists and Forward Lists | |
 | 4 | Sets and Multisets | |
 | 5 | Maps and Multimaps | |

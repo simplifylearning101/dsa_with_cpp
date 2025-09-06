@@ -8,6 +8,8 @@
     title="Course Introduction" frameborder="0" allowfullscreen></iframe>
 </div>
 
+[![Watch the video](https://img.youtube.com/vi/AulKXHaqhPc/0.jpg)](https://www.youtube.com/watch?v=AulKXHaqhPc)
+
 Welcome to the 10-Week DSA Mastery Cohort! This will build a strong foundation in Data Structures and Algorithms (DSA) using C++. At the end of the course, you should be 10x confident on your skills for coding interviews. 
 
 This course is offered in two modes

@@ -1,10 +1,6 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=simplifylearning101.dsa_with_cpp)
 
-<div align="center">
-  <img src="static/market.png" alt="Market Image" width="50%">
-</div>
-
 # 10-Week DSA Cohort Roadmap in C++
 
 Welcome to the 10-Week DSA Mastery Cohort! This will build a strong foundation in Data Structures and Algorithms (DSA) using C++. At the end of the course, you should be 10x confident on your skills for coding interviews. 

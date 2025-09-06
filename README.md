@@ -1,5 +1,7 @@
 
-<img src="static/market.png" alt="Market Image" width="50%">
+<div align="center">
+  <img src="static/market.png" alt="Market Image" width="50%">
+</div>
 
 # 10-Week DSA Cohort Roadmap in C++
 

@@ -39,5 +39,5 @@ Congratulations. You have done a lot of things. Lets move to STL journey from ne
 [Go back to main course](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/README.md)
 
 <div align="center">
-  <img src="../static/support1.png" alt="Support Image">
+  <img src="../static/speak.png" alt="Support Image">
 </div>

@@ -8,47 +8,17 @@ For convinience, we have split this week into multiple parts - each part is expe
 
 After all parts are over, attempt the interview questions. 
 
-| | Read | Links | Quiz |
+| Part | Read | Practice | Attempt |
 |---|---|---|---|
 | 1 |[Material](materials/1_1.md)|[home work](materials/1_2.md) -> [solutions](materials/1_3.md)|[quiz](materials/1_4.md)|
-| 2 |[Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_1_read_cpp_refresher.md)|[home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_2_do_homework.md) -> [solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_3_see_homework_sol.md)|[quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/1_4_quiz.md)|
+| 2 |[Material](materials/2_1.md)|[home work](materials/2_2.md) -> [solutions](materials/2_3.md)|[quiz](materials/2_4.md)|
+| 3 |[Material](materials/3_1.md)|[home work](materials/3_2.md) -> [solutions](materials/3_3.md)|[quiz](materials/3_4.md)|
+| 4 |[Material](materials/4_1.md)|[home work](materials/4_2.md) -> [solutions](materials/4_3.md)|[quiz](materials/4_4.md)|
+| 5 |[Material](materials/5_1.md)|[home work](materials/5_2.md) -> [solutions](materials/5_3.md)|[quiz](materials/5_4.md)|
+| 6 |[Material](materials/6_1.md)|[home work](materials/6_2.md) -> [solutions](materials/6_3.md)|[quiz](materials/6_4.md)|
+| 7 |[Material](materials/7_1.md)|[home work](materials/7_2.md) -> [solutions](materials/7_3.md)|[quiz](materials/7_4.md)|
+| 8 |[Material](materials/8_1.md)|[home work](materials/8_2.md) -> [solutions](materials/8_3.md)|[quiz](materials/8_4.md)|
 
-- Second hour
-    - Read [Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/2_1_read_cpp_refresher.md) content. 
-    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/2_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/2_3_see_homework_sol.md)
-    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/2_4_quiz.md) 
-
-- Third hour
-    - Read [Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/3_1_read_cpp_refresher.md) content. 
-    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/3_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/3_3_see_homework_sol.md)
-    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/3_4_quiz.md) 
-
-- Fourth hour
-    - Read [Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/4_1_read_cpp_refresher.md) content. 
-    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/4_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/4_3_see_homework_sol.md)
-    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/4_4_quiz.md) 
-
-- Fifth hour
-    - Read [Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/5_1_read_cpp_refresher.md) content. 
-    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/5_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/5_3_see_homework_sol.md)
-    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/5_4_quiz.md) 
-
-Then do a deep dive:
-
-- Pointers
-    - Read [Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/6_1_read_cpp_refresher.md) content. 
-    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/6_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/6_3_see_homework_sol.md)
-    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/6_4_quiz.md) 
-
-- Classes, Objects, Contructor, destructor and access mechanism
-    - Read [Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_1_read_cpp_refresher.md) content. 
-    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_3_see_homework_sol.md)
-    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/7_4_quiz.md) 
-
-- Inheritance, Polymorphism, Function Overloading, and Operator Overloading
-    - Read [Material](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_1_read_cpp_refresher.md) content. 
-    - Then do the [home work](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_2_do_homework.md). Compare your code with [sample solutions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_3_see_homework_sol.md)
-    - Attempt [quiz](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/8_4_quiz.md) 
 
 ### Interview Prep time
 Reviese few interview questions:

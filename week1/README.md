@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="static/support1.png" alt="Support Image">
+  <img src="../static/support1.png" alt="Support Image">
 </div>
 
 
@@ -21,5 +21,5 @@ This roadmap outlines a 10-hour plan for Week 1, designed to help students maste
 | 10 | Mini Project: Phonebook Manager | |
 
 <div align="center">
-  <img src="static/support1.png" alt="Support Image">
+  <img src="../static/support1.png" alt="Support Image">
 </div>

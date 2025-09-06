@@ -16,7 +16,7 @@ This roadmap outlines a 10-hour plan for Week 1, designed to help students maste
 | 5 | [Queue](materials/5_1.md) | [home work](materials/5_2.md) -> [solutions](materials/5_3.md)|[quiz](materials/5_4.md)|[Deepdive](materials/5_5.md)| [Example](materials/5_6.md), [Additional](materials/5_7.md) |
 | 6 | [Priority Queue](materials/6_1.md) | [home work](materials/6_2.md) -> [solutions](materials/6_3.md)|[quiz](materials/6_4.md)|[Deepdive](materials/6_5.md)| [Example](materials/6_6.md), [Additional](materials/6_7.md) |
 | 7 | [Sets](materials/7_1.md) | [home work](materials/7_2.md) -> [solutions](materials/7_3.md)|[quiz](materials/7_4.md)|[Deepdive](materials/7_5.md)| [Example](materials/7_6.md), [Additional](materials/7_7.md) |
-| 6 | Unordered Sets and Unordered Maps | |
+| 8 | [Map](materials/8_1.md) | [home work](materials/8_2.md) -> [solutions](materials/8_3.md)|[quiz](materials/8_4.md)|[Deepdive](materials/8_5.md)| [Example](materials/8_6.md), [Additional](materials/8_7.md) |
 | 7 | STL Algorithms | |
 | 8 | Iterators, Functors, and Advanced STL | |
 | 9 | Interview Questions on C++ STL | |

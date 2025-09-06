@@ -17,7 +17,7 @@ This roadmap outlines a 10-hour plan for Week 1, designed to help students maste
 | 6 | [Priority Queue](materials/6_1.md) | [home work](materials/6_2.md) -> [solutions](materials/6_3.md)|[quiz](materials/6_4.md)|[Deepdive](materials/6_5.md)| [Example](materials/6_6.md), [Additional](materials/6_7.md) |
 | 7 | [Sets](materials/7_1.md) | [home work](materials/7_2.md) -> [solutions](materials/7_3.md)|[quiz](materials/7_4.md)|[Deepdive](materials/7_5.md)| [Example](materials/7_6.md), [Additional](materials/7_7.md) |
 | 8 | [Map](materials/8_1.md) | [home work](materials/8_2.md) -> [solutions](materials/8_3.md)|[quiz](materials/8_4.md)|[Deepdive](materials/8_5.md)| [Example](materials/8_6.md), [Additional](materials/8_7.md) |
-| 7 | STL Algorithms | |
+| 7 | [Multiset and Multimap](materials/9_1.md) | [home work](materials/9_2.md) -> [solutions](materials/9_3.md)|[quiz](materials/9_4.md)|[Deepdive](materials/9_5.md)| [Example](materials/9_6.md), [Additional](materials/9_7.md) |
 | 8 | Iterators, Functors, and Advanced STL | |
 | 9 | Interview Questions on C++ STL | |
 | 10 | Mini Project: Phonebook Manager | |

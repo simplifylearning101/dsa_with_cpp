@@ -1,4 +1,6 @@
 
+![Market Image](static/market.png)
+
 # 10-Week DSA Cohort Roadmap in C++
 
 Welcome to the 10-Week DSA Mastery Cohort! This will build a strong foundation in Data Structures and Algorithms (DSA) using C++. At the end of the course, you should be 10x confident on your skills for coding interviews. 
@@ -34,7 +36,7 @@ This course is offered in two modes
 ## Coordinators
 Once you join the cohort, you will be invited to cohort WhatsApp group where you can seek help from our coordinators 
 - Technology related : Adit Kadagadakai
-- Logistics related : Ashwini
+- Logistics related : Ashwini - +91 8897613936
 
 ## Roadmap
 | Week | Coverage | Project | Link |

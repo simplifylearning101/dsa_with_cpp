@@ -29,6 +29,10 @@ This roadmap outlines a 10-hour plan for Week 1, designed to help students maste
 | [Easy](materials/easy.md) | [Medium](materials/medium.md) | [Hard](materials/hard.md) | [Very Hard](materials/veryhard.md) |
 |---|---|---|---|
 
+### Project - Phonebook management
+| [Project Requirements](materials/r.md) | [Solution](materials/s.md) | Homework(materials/homework.md)
+|---|---|---|
+
 
 <div align="center">
   <img src="../static/speak.png" alt="Support Image">

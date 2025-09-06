@@ -25,6 +25,10 @@ This roadmap outlines a 10-hour plan for Week 1, designed to help students maste
 | 13 (Optional)| [Advanced STL Algorithms](materials/13_1.md) | [home work](materials/13_2.md) -> [solutions](materials/13_3.md)|[quiz](materials/13_4.md)|[Deepdive](materials/13_5.md)| [Example](materials/13_6.md), [Additional](materials/13_7.md) |
 | 14 | [STL Iterators and Iterator Adaptors](materials/14_1.md) | [home work](materials/14_2.md) -> [solutions](materials/14_3.md)|[quiz](materials/14_4.md)|[Deepdive](materials/14_5.md)| [Example](materials/14_6.md), [Additional](materials/14_7.md) |
 
+### Interview questions
+| [Easy](materials/easy.md) | [Medium](materials/medium.md) | [Hard](materials/hard.md) | [Very Hard](materials/veryhard.md) |
+|---|---|---|---|
+
 
 <div align="center">
   <img src="../static/speak.png" alt="Support Image">

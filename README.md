@@ -40,7 +40,7 @@ Once you join the cohort, you will be invited to cohort WhatsApp group where you
 | Week | Coverage | Project | Link |
 |---|---|---|---|
 | Week 0 | Revising C++ Fundamentals | A Student Database | [Link](week0/README.md) |
-| Week 1 | Mastering C++ STL | Phonebook Manager | |
+| Week 1 | Mastering C++ STL | Phonebook Manager | [Link](week1/README.md) |
 | Week 2 | Arrays and Two-Pointer Techniques | Inventory System | | 
 | Week 3 | Linked Lists | Playlist Manager | | 
 | Week 4 | Stacks and Queues | Browser Navigation | | 

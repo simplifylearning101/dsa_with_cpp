@@ -37,8 +37,9 @@ This course is offered in two modes
 
 ## Coordinators
 Once you join the cohort, you will be invited to cohort WhatsApp group where you can seek help from our coordinators 
-- Technology related : Adit Kadagadakai
-- Logistics related : Ashwini - +91 8897613936
+<div align="center">
+  <img src="static/support.png" alt="Support Image">
+</div>
 
 ## Roadmap
 | Week | Coverage | Project | Link |

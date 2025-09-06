@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="static/support1.png" alt="Support Image">
+</div>
+
 ### Week 0: Theme - [Revising C++ Fundamentals]
 
 You will quickly refresh your core C++ concepts, write some basic programs confidently, understand pointers, references, and basic OOP principles, get ready for STL and DSA. 
@@ -33,3 +37,7 @@ All programs are discussed in detail in the classroom training.
 ### End
 Congratulations. You have done a lot of things. Lets move to STL journey from next week
 [Go back to main course](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/README.md)
+
+<div align="center">
+  <img src="static/support1.png" alt="Support Image">
+</div>

@@ -10,8 +10,8 @@ After all parts are over, attempt the interview questions.
 
 | Part | Read | Practice | Attempt |
 |---|---|---|---|
-| 1 |[Material](materials/1_1.md)|[home work](materials/1_2.md) -> [solutions](materials/1_3.md)|[quiz](materials/1_4.md)|
-| 2 |[Material](materials/2_1.md)|[home work](materials/2_2.md) -> [solutions](materials/2_3.md)|[quiz](materials/2_4.md)|
+| 1 |[Variables / Data types / Operators](materials/1_1.md)|[home work](materials/1_2.md) -> [solutions](materials/1_3.md)|[quiz](materials/1_4.md)|
+| 2 |[Decision / Loops](materials/2_1.md)|[home work](materials/2_2.md) -> [solutions](materials/2_3.md)|[quiz](materials/2_4.md)|
 | 3 |[Material](materials/3_1.md)|[home work](materials/3_2.md) -> [solutions](materials/3_3.md)|[quiz](materials/3_4.md)|
 | 4 |[Material](materials/4_1.md)|[home work](materials/4_2.md) -> [solutions](materials/4_3.md)|[quiz](materials/4_4.md)|
 | 5 |[Material](materials/5_1.md)|[home work](materials/5_2.md) -> [solutions](materials/5_3.md)|[quiz](materials/5_4.md)|

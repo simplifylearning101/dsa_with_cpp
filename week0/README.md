@@ -21,11 +21,8 @@ After all parts are over, attempt the interview questions.
 
 
 ### Interview Prep time
-Reviese few interview questions:
-- [Easy Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_1_easy.md). 
-- [Little hard Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_2_medium.md).
-- [Hard Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_3_hard.md).
-- [Harder Interview Questions](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/9_4_very_hard.md).
+| [Easy](materials/9_1.md) | [Little hard](materials/9_2.md) | [Hard](materials/9_3.md) | [Very hard](materials/9_4.md) |
+|---|---|---|---|
 
 ### Project Time
 Form a group of 3-4 people. Choose one [project from the list](https://github.com/simplifylearning101/dsa_with_cpp/blob/main/week0/projects/README.md) and implement it. You should be able to walk thru the code. 

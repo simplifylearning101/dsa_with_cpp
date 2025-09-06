@@ -20,7 +20,7 @@ This roadmap outlines a 10-hour plan for Week 1, designed to help students maste
 | 9 | [Multiset and Multimap](materials/9_1.md) | [home work](materials/9_2.md) -> [solutions](materials/9_3.md)|[quiz](materials/9_4.md)|[Deepdive](materials/9_5.md)| [Example](materials/9_6.md), [Additional](materials/9_7.md) |
 | 10 | [Unordered Set and Unordered Multiset](materials/10_1.md) | [home work](materials/10_2.md) -> [solutions](materials/10_3.md)|[quiz](materials/10_4.md)|[Deepdive](materials/10_5.md)| [Example](materials/10_6.md), [Additional](materials/10_7.md) |
 | 11 | [Unordered Map and Unordered Multimap](materials/11_1.md) | [home work](materials/11_2.md) -> [solutions](materials/11_3.md)|[quiz](materials/11_4.md)|[Deepdive](materials/11_5.md)| [Example](materials/11_6.md), [Additional](materials/11_7.md) |
-| Revision | [Cheatsheet] (materials/cheatsheet.md)| | | | |
+| Revision | [Cheatsheet](materials/cheatsheet.md)| | | | |
 
 <div align="center">
   <img src="../static/speak.png" alt="Support Image">

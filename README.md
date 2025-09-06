@@ -1,5 +1,5 @@
 
-![Market Image](static/market.png)
+<img src="static/market.png" alt="Market Image" width="50%">
 
 # 10-Week DSA Cohort Roadmap in C++
 

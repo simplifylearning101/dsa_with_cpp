@@ -19,3 +19,4 @@ This builds on Week 0 (C++ fundamentals) and Week 1 (STL mastery), preparing stu
 | Part | Read | Practice | Attempt | Master the topic | Samples from Leetcode |
 |---|---|---|---|---|---|
 | 1 | [Introduction to Arrays in C++](materials/1_1.md) | [home work](materials/1_2.md) -> [solutions](materials/1_3.md)|[quiz](materials/1_4.md)|[Deepdive](materials/1_5.md)| [Example](materials/1_6.md), [Additional](materials/1_7.md) |
+| 2 | [Introduction to Two-Pointer Technique in Arrays](materials/2_1.md) | [home work](materials/2_2.md) -> [solutions](materials/2_3.md)|[quiz](materials/2_4.md)|[Deepdive](materials/2_5.md)| [Example](materials/2_6.md), [Additional](materials/2_7.md) |

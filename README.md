@@ -1,17 +1,18 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=simplifylearning101.dsa_with_cpp)
 
-# 10-Week DSA Cohort Roadmap in C++
-
+# 10-Week DSA with C++ Roadmap 
 
 For quick introduction of this course - [Watch the video](https://www.youtube.com/watch?v=rx0Tg1ThXFI) on youtube.
 
-Welcome to the 10-Week DSA Mastery Cohort! This will build a strong foundation in Data Structures and Algorithms (DSA) using C++. At the end of the course, you should be 10x confident on your skills for coding interviews. 
+Welcome to the 10-Week DSA Mastery Course! This will build a strong foundation in Data Structures and Algorithms (DSA) using C++. 
+
+At the end of the course, you should be 10x confident on your skills for coding interviews. 
 
 This course is offered in two modes
 
 
-|   | Cohort Mode (FREE)  | Classroom Mode (Fee based)  |
+|   | Self learning (FREE)  | Classroom Mode (Fee based)  |
 |---|---|---|
 | Course Content | Access to full course content | Access to full course content |
 | Course Delivery | Self study mode | You attend Online Classes to accelerate your learning |
@@ -25,7 +26,6 @@ This course is offered in two modes
 - Approach: Start with C++ revision (Week 0), master STL (Week 1), then build strong DSA foundation (Weeks 2–9), and demonstrate your skills in mock interviews (Week 10).
 
 ### Approach
-- This is a cohort based model of learning. You will join the cohort and learn with others. 
 - There would be online sessions 2-3 times (of 1-1.5 hrs) per week discussing conceptual explanations with real-world examples and C++ programs.
 - You will then practice 10-15 homework programs of increasing difficulty on the topics discussed on daily basis. 
 - You will slowly start practicing LeetCode/NeetCode problems every week, focusing on easy-to-medium difficulty initially.

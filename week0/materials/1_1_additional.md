@@ -25,7 +25,7 @@ Below is a clear and concise table summarizing the **primitive data types** in C
 ---
 
 
-### Additional Reading - What happens when you compile your C / C++ program.
+# What happens when you compile your C / C++ program.
 
 The compilation process in C++ transforms human-readable source code into an executable program that a computer can run. 
 
